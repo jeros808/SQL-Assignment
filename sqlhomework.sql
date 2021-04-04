@@ -1,5 +1,5 @@
 
-# Unit 10 Assignment - SQL
+SQL
 
 1a. You need a list of all the actors who have Display the first and last names of all actors from the table `actor`. 
 
